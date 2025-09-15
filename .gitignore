@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+# 忽略 Python 编译缓存
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+# 忽略虚拟环境目录（常见名称）
+venv/
+.venv/
+
+# 忽略环境变量文件（包含敏感信息，一定不能提交！）
+.env
